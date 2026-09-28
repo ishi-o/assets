@@ -2,7 +2,7 @@
 
 ## Fonts
 
-[Consolas+NF+LXGWWenKai Mono](https://github.com/ishi-o/assets/releases/tag/fonts-v0.2)
+[Consolas+NF+LXGWWenKai Mono](https://github.com/ishi-o/assets/releases/tag/fonts-v1.0)
 
 - Consolas by Microsoft
 - NerdFonts by [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
