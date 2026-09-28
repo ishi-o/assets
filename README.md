@@ -2,8 +2,12 @@
 
 ## Fonts
 
-[Consolas Yahei](https://github.com/ishi-o/assets/releases/tag/fonts-consolas-v0.1) by [Magnetic2014](Magnetic2014/YaHei-Consolas-Hybrid-For-Powerline)
+[Consolas+NF+LXGWWenKai Mono](https://github.com/ishi-o/assets/releases/tag/fonts-v0.2)
+
+- Consolas by Microsoft
+- NerdFonts by [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+- LXGWWenKai by [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
 ## Mouse cursor icons for Windows
 
-[Bocchi](https://github.com/ishi-o/assets/releases/tag/mouse-bocchi-v0.1) by [kuuki-07](https://space.bilibili.com/12905626)
+[Bocchi Cursor](https://github.com/ishi-o/assets/releases/tag/mouse-bocchi-v0.1) by [kuuki-07](https://space.bilibili.com/12905626)
